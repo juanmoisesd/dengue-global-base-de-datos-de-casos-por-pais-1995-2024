@@ -1,0 +1,19 @@
+{
+  "title": "Base de datos de casos confirmados y reportados de dengue en 31 países de América Latina, Asia del Sur y Asia del Sureste, con series temporales desde 1995 hasta 2024. Datos recopilados de PAHO/OMS y ministerios de salud nacionales.",
+  "description": "Base de datos de casos confirmados y reportados de dengue en 31 países de América Latina, Asia del Sur y Asia del Sureste, con series temporales desde 1995 hast",
+  "keywords": "cc0, dataset, open-data, zenodo",
+  "author": "Juan Moisés de la Serna Tuya",
+  "orcid": "https://orcid.org/0000-0002-8401-8018",
+  "canonical": "https://juanmoisesd.github.io/dengue-global-base-de-datos-de-casos-por-pais-1995-2024/",
+  "og:title": "Base de datos de casos confirmados y reportados de dengue en 31 países de América Latina, Asia del Sur y Asia del Sureste, con series temporales desde 1995 hasta 2024. Datos recopilados de PAHO/OMS y ministerios de salud nacionales.",
+  "og:description": "Base de datos de casos confirmados y reportados de dengue en 31 países de América Latina, Asia del Sur y Asia del Sureste, con series temporales desde 1995 hasta 2024. Datos recopilados de PAHO/OMS y ",
+  "og:url": "https://juanmoisesd.github.io/dengue-global-base-de-datos-de-casos-por-pais-1995-2024/",
+  "og:type": "dataset",
+  "twitter:card": "summary",
+  "twitter:title": "Base de datos de casos confirmados y reportados de dengue en 31 países de América Latina, Asia del Sur y Asia del Sureste, con series temporales desde 1995 hasta 2024. Datos recopilados de PAHO/OMS y ministerios de salud nacionales.",
+  "twitter:description": "Base de datos de casos confirmados y reportados de dengue en 31 países de América Latina, Asia del Sur y Asia del Sureste, con series temporales desde 1995 hast",
+  "schema_type": "Dataset",
+  "license": "CC0-1.0",
+  "datePublished": "2026-03-20",
+  "language": "es, en"
+}
