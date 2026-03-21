@@ -1,0 +1,16 @@
+{
+  "orcid": "0000-0002-8401-8018",
+  "name": "Juan Moisés de la Serna Tuya",
+  "affiliation": "Universidad Internacional de La Rioja (UNIR)",
+  "email": "juanmoises.delaserna@unir.net",
+  "website": "https://juanmoisesdelaserna.es",
+  "profile": "https://orcid.org/0000-0002-8401-8018",
+  "works": [
+    {
+      "title": "Base de datos de casos confirmados y reportados de dengue en 31 países de América Latina, Asia del Sur y Asia del Sureste, con series temporales desde 1995 hasta 2024. Datos recopilados de PAHO/OMS y ministerios de salud nacionales.",
+      "type": "dataset",
+      "url": "https://github.com/juanmoisesd/dengue-global-base-de-datos-de-casos-por-pais-1995-2024",
+      "year": "2026"
+    }
+  ]
+}
