@@ -1,0 +1,23 @@
+{
+  "title": "Base de datos de casos confirmados y reportados de dengue en 31 países de Améric",
+  "id": "juanmoisesd/dengue-global-base-de-datos-de-casos-por-pais-1995",
+  "licenses": [
+    {
+      "name": "CC BY 4.0"
+    }
+  ],
+  "keywords": [
+    "cc0",
+    "citation",
+    "dataset",
+    "epidemiology",
+    "fair-data",
+    "global-health",
+    "infectious-diseases",
+    "juan-moises-de-la-serna",
+    "latin-america",
+    "open-data"
+  ],
+  "description": "Base de datos de casos confirmados y reportados de dengue en 31 países de América Latina, Asia del Sur y Asia del Sureste, con series temporales desde 1995 hasta 2024. Datos recopilados de PAHO/OMS y ministerios de salud nacionales.\n\nDOI: https://github.com/juanmoisesd/dengue-global-base-de-datos-de-casos-por-pais-1995-2024\nGitHub: https://github.com/juanmoisesd/dengue-global-base-de-datos-de-casos-por-pais-1995-2024\nAuthor: de la Serna, Juan Moisés",
+  "isPrivate": false
+}
