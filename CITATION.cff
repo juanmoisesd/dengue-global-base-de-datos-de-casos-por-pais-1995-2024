@@ -1,7 +1,8 @@
 cff-version: 1.2.0
-message: "If you use this software/dataset, please cite it as below."
+message: "If you use this dataset, please cite it as below."
 type: dataset
 title: "Base de datos de casos confirmados y reportados de dengue en 31 países de América Latina, Asia del Sur y Asia del Sureste, con series temporales desde 1995 hasta 2024. Datos recopilados de PAHO/OMS y ministerios de salud nacionales."
+abstract: "Base de datos de casos confirmados y reportados de dengue en 31 países de América Latina, Asia del Sur y Asia del Sureste, con series temporales desde 1995 hasta 2024. Datos recopilados de PAHO/OMS y ministerios de salud nacionales."
 authors:
   - family-names: "de la Serna Tuya"
     given-names: "Juan Moisés"
@@ -10,7 +11,6 @@ authors:
     email: "juanmoises.delaserna@unir.net"
 repository-code: "https://github.com/juanmoisesd/dengue-global-base-de-datos-de-casos-por-pais-1995-2024"
 url: "https://juanmoisesd.github.io/dengue-global-base-de-datos-de-casos-por-pais-1995-2024/"
-abstract: "Base de datos de casos confirmados y reportados de dengue en 31 países de América Latina, Asia del Sur y Asia del Sureste, con series temporales desde 1995 hasta 2024. Datos recopilados de PAHO/OMS y ministerios de salud nacionales."
 keywords:
   - open-data
   - dataset
@@ -19,6 +19,7 @@ keywords:
 license: CC0-1.0
 version: "1.0.0"
 date-released: "2026-03-20"
+doi: "10.5281/zenodo.19145316"
 references:
   - type: dataset
     title: "Open Research Collection — Juan Moisés de la Serna Tuya"
